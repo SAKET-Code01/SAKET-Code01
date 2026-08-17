@@ -41,8 +41,6 @@ Campus safety route-planning hackathon project.
 
 **React · TypeScript · Node.js · Express · Google Maps**
 
-[Repository](https://github.com/SAKET-Code01/safewalk-hackathon)
-
 ### 📚 Smart Learning Hub
 Full-stack learning platform with AI-assisted study support.
 
@@ -50,14 +48,15 @@ Full-stack learning platform with AI-assisted study support.
 
 ---
 
-## Connect & Profiles
+## Connect
 
-| Professional | Coding & Learning | Social |
-|---|---|---|
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAKET-Code01) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/saketkumar_25E119D72/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/saket_kumar_2006/) |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket-kumar-seth-517900397/) | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/25E119D72_Saket) | |
-| | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/25E119D72_Saket) | |
-| | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/saketkumarseth) | |
-| | [![Unstop](https://img.shields.io/badge/Unstop-111827?style=flat-square)](https://unstop.com/u/saketdhj58403) | |
-
----
+<p align="center">
+  <a href="https://github.com/SAKET-Code01"><img src="https://cdn.simpleicons.org/github/white" width="30" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saket-kumar-seth-517900397/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/saketkumar_25E119D72/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" alt="LeetCode" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/25E119D72_Saket"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30" alt="Codeforces" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/25E119D72_Saket"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="30" alt="HackerRank" /></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/saketkumarseth"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="30" alt="Kaggle" /></a>&nbsp;&nbsp;
+  <a href="https://unstop.com/u/saketdhj58403"><img src="https://cdn.simpleicons.org/unstop/111827" width="30" alt="Unstop" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/saket_kumar_2006/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram" /></a>
+</p>
