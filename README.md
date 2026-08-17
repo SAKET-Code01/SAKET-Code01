@@ -50,6 +50,14 @@ Full-stack learning platform with AI-assisted study support.
 
 ---
 
-## Connect
+## Connect & Profiles
 
-[LinkedIn](https://www.linkedin.com/in/saket-kumar-seth-517900397/) · [GitHub](https://github.com/SAKET-Code01)
+| Professional | Coding & Learning | Social |
+|---|---|---|
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAKET-Code01) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/saketkumar_25E119D72/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/saket_kumar_2006/) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket-kumar-seth-517900397/) | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/25E119D72_Saket) | |
+| | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/25E119D72_Saket) | |
+| | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/saketkumarseth) | |
+| | [![Unstop](https://img.shields.io/badge/Unstop-111827?style=flat-square)](https://unstop.com/u/saketdhj58403) | |
+
+---
