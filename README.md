@@ -1,63 +1,59 @@
-# Hi, I'm SAKET KUMAR SETH 👋
+# SAKET KUMAR SETH
 
-### B.Tech CSE | Software Development | Backend | AI-enabled Applications
+**B.Tech Computer Science & Engineering student · ITER, SOA University**  
+**Java · DSA · Python · Backend/API Integration · Applied AI**
 
-Computer Science student focused on building software, learning backend engineering, and exploring AI through practical projects.
+I build and contribute to software prototypes through frontend/backend integration, API workflows, testing, debugging, and deployment coordination. My current engineering focus is strengthening Java, data structures, SQL, backend fundamentals, and secure application development.
 
----
+## Technical focus
 
-## Currently Learning
+- **Programming:** Java, Python, JavaScript, TypeScript
+- **Core CS:** OOP, DSA, algorithm analysis, DBMS, SQL
+- **Backend:** Node.js, Express, FastAPI, REST APIs, authentication, validation, API integration
+- **Data:** MySQL, PostgreSQL, SQLite, Firebase Firestore
+- **AI / ML:** LLM API integration, RAG prototypes, computer vision, TensorFlow, PyTorch
+- **Tools / deployment:** Git, GitHub, Linux/Ubuntu, AWS EC2, Apache, Vercel, Render
 
-- Java & Data Structures
-- Python
-- Backend Development
-- SQL & Databases
-- Git & GitHub
-- Cloud & Deployment
-- AI & ML fundamentals
+I distinguish project implementation and integration experience from workshop exposure and technologies I am currently learning.
 
-**Direction:** Software Development → AI & ML
+## Selected projects
 
----
+### [VITTANAYA](https://github.com/SAKET-Code01/vittanaya)
+MSME financial decision-support prototype for rural micro-entrepreneurs. The repository contains a React frontend and a FastAPI backend with API v1 modules, SQLAlchemy models, seeded reference data, and finance, feasibility, advisory, and action-planning workflows.
 
-## Selected Projects
+**Stack:** Python, FastAPI, SQLAlchemy, React, Vite, PostgreSQL/SQLite configuration.
 
-### 🌾 Krishi-AI
-AI-assisted smart farming platform.
+### [KRISHI-AI](https://github.com/SAKET-Code01/Krishi-AI)
+Team-built smart-farming application for crop guidance, weather and market information, schemes, and multilingual assistance. My documented team responsibilities included backend/system-flow work, coordination, and deployment support, alongside integration and testing.
 
-**React · TypeScript · Node.js · Express · AI APIs**
+**Stack:** React, TypeScript, Node.js, Express, AI and external API integrations.
 
-[Repository](https://github.com/SAKET-Code01/Krishi-AI)
+### [SMART-LEARNING-HUB](https://github.com/SAKET-Code01/SMART-LEARNING-HUB)
+Full-stack learning platform with authentication, assignments, file workflows, and retrieval-based question answering over uploaded notes. The AI note index is currently in memory and the application remains a prototype.
 
-### 💰 Vittanaya
-MSME financial decision-support system for forecasting, liquidity analysis, and scenario simulation.
+**Stack:** React, Vite, Node.js, Express, MySQL, JWT, Joi, OpenAI API.
 
-**Frontend · Backend · Machine Learning · Data**
+### [SafeWalk](https://github.com/SAKET-Code01/safewalk-hackathon)
+Campus route-planning hackathon prototype that compares route options using risk-point proximity. It uses map/geocoding/routing services and an Express API; risk data is currently file-based demo data, not verified live incident data.
 
-[Repository](https://github.com/SAKET-Code01/vittanaya)
+**Stack:** React, TypeScript, React Leaflet, OpenStreetMap, OSRM, Node.js, Express.
 
-### 🛡️ SafeWalk
-Campus safety route-planning hackathon project.
+### [EcoTatva](https://github.com/SAKET-Code01/EcoTatva)
+Sustainability-learning prototype with Firebase Authentication and per-user task/progress storage. Its FastAPI service is currently a minimal API scaffold; AI and notification workflows are future work, not implemented features.
 
-**React · TypeScript · Node.js · Express · Google Maps**
+**Stack:** React, TypeScript, Vite, Firebase, Firestore, FastAPI.
 
-### 📚 Smart Learning Hub
-Full-stack learning platform with AI-assisted study support.
+## Practical learning
 
-**React · Node.js · Express · MySQL · AI**
-
----
+- Deployed a website to an AWS EC2 Ubuntu instance during a hands-on workshop: SSH/EC2 Instance Connect, Apache setup, GitHub clone, web-root deployment, and service verification.
+- Built a guided n8n automation workflow connecting Google Sheets and Gmail.
+- Practising Java and DSA, SQL, backend API design, validation, authentication, testing, and Git workflows.
 
 ## Connect
 
-<p align="center">
-  <a href="https://github.com/SAKET-Code01"><img src="https://cdn.simpleicons.org/github/ffffff" width="30" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/saket-kumar-seth-517900397/"><img src="./assets/icons/linkedin.svg" width="30" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/saketkumar_25E119D72/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/25E119D72_Saket"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30" alt="Codeforces" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/25E119D72_Saket"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="30" alt="HackerRank" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/saketkumarseth"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="30" alt="Kaggle" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://unstop.com/u/saketdhj58403"><img src="./assets/icons/unstop.svg" width="30" alt="Unstop" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/saket_kumar_2006/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/saket.kumarseth.75/"><img src="./assets/icons/facebook.svg" width="30" alt="Facebook" /></a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/saket-kumar-seth-517900397/)
+- [LeetCode](https://leetcode.com/u/saketkumar_25E119D72/)
+- [Codeforces](https://codeforces.com/profile/25E119D72_Saket)
+- [Kaggle](https://www.kaggle.com/saketkumarseth)
+- [Unstop](https://unstop.com/u/saketdhj58403)
+- [Email](mailto:saketkumar26102006@gmail.com)
